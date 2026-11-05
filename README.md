@@ -1,5 +1,7 @@
 # Finance Services — Samrat Banerjee
 
+![license](https://img.shields.io/badge/license-MIT-lightgrey) ![deliverables](https://img.shields.io/badge/deliverables-XLSX%20%2B%20PDF-blue) ![showcases](https://img.shields.io/badge/showcases-2%20complete-brightgreen) ![checks](https://img.shields.io/badge/model%20checks-verified-orange)
+
 **Financial modelling, FP&A systems, model audits and analytics — built in Excel + Python, delivered to investor-grade standard.**
 
 I'm a finance freelancer based in India working with founders, SMB owners and traders worldwide. Background: derivatives and quantitative finance, CFA Level 1 candidate, and a simple working rule — a model is only finished when its checks pass and a stranger can change an assumption without breaking it.
