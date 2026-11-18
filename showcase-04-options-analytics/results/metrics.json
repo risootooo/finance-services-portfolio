@@ -1,0 +1,57 @@
+{
+  "data": "SYNTHETIC \u2014 generated in-code (GBM + vol regimes), seed-reproducible",
+  "trades": 104,
+  "period_weeks": 104,
+  "total_pnl_inr": -55094.39519392066,
+  "mean_weekly_pnl_inr": -529.7537999415448,
+  "sharpe_annualised": -0.9428301807385674,
+  "sortino_annualised": -0.9948138967991662,
+  "max_drawdown_inr": -79652.87715041978,
+  "win_rate": 0.4519230769230769,
+  "avg_win_inr": 2612.703305022055,
+  "avg_loss_inr": -3120.9026408764425,
+  "worst_week_inr": -10347.813805414145,
+  "best_week_inr": 3306.6713614096707,
+  "total_costs_inr": 51584.0,
+  "profit_factor": 0.6902920571517704,
+  "walk_forward_selections": [
+    {
+      "insample_start": 0,
+      "insample_end": 103,
+      "oos_start": 104,
+      "oos_end": 155,
+      "chosen_short_dist_pct": 0.03
+    },
+    {
+      "insample_start": 156,
+      "insample_end": 259,
+      "oos_start": 260,
+      "oos_end": 311,
+      "chosen_short_dist_pct": 0.03
+    }
+  ],
+  "parameters": {
+    "start_spot": 24000.0,
+    "weeks": 312,
+    "annual_drift": 0.07,
+    "vol_low": 0.11,
+    "vol_high": 0.24,
+    "regime_p_stay": 0.96,
+    "risk_free": 0.065,
+    "iv_markup": 1.08,
+    "lot_size": 25,
+    "lots": 1,
+    "wing_width_pct": 0.015,
+    "profit_exit": null,
+    "cost_per_leg_lot_inr": 62.0,
+    "slippage_points_per_leg": 1.5,
+    "wf_insample_weeks": 104,
+    "wf_outsample_weeks": 52,
+    "grid_short_dist_pct": [
+      0.015,
+      0.02,
+      0.025,
+      0.03
+    ]
+  }
+}

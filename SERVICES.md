@@ -34,6 +34,8 @@ All prices USD, fixed per package unless stated. **Message before ordering** —
 
 *Scope fence:* one entity, up to 3 data sources (bank/QBO/Xero CSV exports). Payroll-system integrations and multi-entity consolidations are custom quotes. Retainer cancellable monthly.
 
+**Proof:** [showcase-03-fpa-cashflow](showcase-03-fpa-cashflow/) is a complete Build + Dashboard sample (13-week cash flow, BvA, rolling forecast with hire/rent scenario lines, 1-page board pack; workbook checks ALL PASS).
+
 ## 3. Financial Model Audit, Fix & Rescue — fixed fee
 
 | | Audit Report — $175 | Audit + Fix — $350 | Audit + Fix + Harden — $500 |
@@ -63,6 +65,8 @@ All prices USD, fixed per package unless stated. **Message before ordering** —
 
 *Scope fence:* you supply the strategy rules and the data/broker access. I do not supply strategies, pick parameters "for profit", manage accounts, or place live trades. Live deployment support means code and documentation — execution decisions stay with you.
 
+**Proof:** [showcase-04-options-analytics](showcase-04-options-analytics/) is a complete Python Backtest sample on synthetic data (walk-forward, costs/slippage charged, report with sensitivity and limitations) plus the payoff/Greeks explorer workbook from the Suite tier (checks ALL PASS). The sample's out-of-sample result is a loss, reported as such — backtests that cannot say no are not backtests.
+
 ## 5. Equity Research Pack + AI-Research QA
 
 | | Company Snapshot — $250 | Initiation Pack — $650 | Pack + AI-QA — $950 |
@@ -74,6 +78,8 @@ All prices USD, fixed per package unless stated. **Message before ordering** —
 | Delivery | 3 days | 5 days | 5 days |
 
 *Scope fence:* public data only; one listed company per pack. Reports are general-information work products — not personalised investment advice or recommendations.
+
+**Proof:** [showcase-05-equity-research](showcase-05-equity-research/) is a complete Pack + AI-QA sample: 9-page initiation-style report on Apple Inc., the linked model behind every number in it (checks ALL PASS), and an annotated QA pass flagging 8 planted errors in a fictional AI draft.
 
 ---
 
